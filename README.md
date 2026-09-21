@@ -9,7 +9,7 @@
 <p align="center">
 
 ![C](https://img.shields.io/badge/Language-C-blue)
-![Raylib](https://img.shields.io/badge/GUI-Raylib-6.0-blue)
+![Raylib]([https://img.shields.io/badge/GUI-Raylib%206.0-blue)
 ![CMake](https://img.shields.io/badge/Build-CMake-red)
 ![MSYS2](https://img.shields.io/badge/Toolchain-MSYS2%20UCRT64-orange)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-Advanced-green)
